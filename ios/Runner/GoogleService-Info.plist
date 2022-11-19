@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>548691267998-5bu1p434e4j889tj2juhcrca7s22h6am.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.548691267998-5bu1p434e4j889tj2juhcrca7s22h6am</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZ0nJiyU9y211HR8-so2OqlPhQPLcULoc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>548691267998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.unicesumar.sapientia</string>
+	<key>PROJECT_ID</key>
+	<string>sapientia-c1715</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sapientia-c1715.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:548691267998:ios:f78e68bdf5b74c9df6068f</string>
+</dict>
+</plist>

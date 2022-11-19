@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548691267998",
+    "project_id": "sapientia-c1715",
+    "storage_bucket": "sapientia-c1715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548691267998:android:bee827e58a68391cf6068f",
+        "android_client_info": {
+          "package_name": "br.com.unicesumar.sapientia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548691267998-haq5mtrmpf8scn11f6j2cqusf3bu4jfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEoNeskT52DW7a3cVZFIgHYdrDMUpkRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548691267998-haq5mtrmpf8scn11f6j2cqusf3bu4jfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
